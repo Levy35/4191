@@ -1,0 +1,1 @@
+copy courses FROM '/home/lcoc/4191/quiz/migrations/course.csv' WITH delimiter ',' CSV HEADER;
